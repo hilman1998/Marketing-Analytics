@@ -1,7 +1,3 @@
-Certainly! Here's a README file tailored for your marketing clustering project, where you've applied the K-means algorithm.
-
----
-
 # Marketing Clustering with K-means
 
 ## Project Overview
